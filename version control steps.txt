@@ -1,0 +1,21 @@
+steps for version control
+step 1 
+delete the old connection from credential manager
+step 2
+create new repository in github
+step 3
+open the folder and type cmd on the https bar
+step 4
+git init
+step 5
+copy remote add origin code from github and paste it in cmd file
+step 6
+git add .
+step 7
+git commit -m " "
+step 8
+git push origin master
+step 9
+authorize your account
+step 10 
+enjoy the result
